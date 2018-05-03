@@ -1,0 +1,108 @@
+﻿生成启动时间为 2018/5/3 0:44:52。
+     1>项目“F:\radar_wsp\PolorPie\PolorPie.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\PolorPie.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\PolorPie.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\PolorPie.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\PolorPie.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ColorLevel.cpp LevelBar.cpp PiePlot.cpp PolorPie.cpp
+         PolorPie.cpp
+         PiePlot.cpp
+     1>f:\radar_wsp\polorpie\pieplot.h(156): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(13): warning C4305: “初始化”: 从“double”到“const float”截断
+     1>f:\radar_wsp\polorpie\pieplot.cpp(128): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(128): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(161): warning C4244: “=”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(162): warning C4244: “=”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(163): warning C4244: “=”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(164): warning C4244: “=”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(169): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(170): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(172): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(175): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(176): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(180): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(181): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(182): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(183): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(202): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(202): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(248): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(249): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(263): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(297): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(298): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(298): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(302): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(303): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(305): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(356): warning C4244: “=”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(357): warning C4244: “=”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(367): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(368): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(372): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(373): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(377): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(378): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(379): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(384): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(385): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(389): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(390): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(394): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(395): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(400): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\pieplot.cpp(401): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+         LevelBar.cpp
+     1>f:\radar_wsp\polorpie\levelbar.cpp(81): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>f:\radar_wsp\polorpie\levelbar.cpp(91): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\radar_wsp\polorpie\levelbar.cpp(106): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\radar_wsp\polorpie\levelbar.cpp(107): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\radar_wsp\polorpie\levelbar.cpp(114): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\levelbar.cpp(115): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\radar_wsp\polorpie\levelbar.cpp(117): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+     1>f:\radar_wsp\polorpie\levelbar.cpp(118): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+         ColorLevel.cpp
+     1>f:\radar_wsp\polorpie\colorlevel.cpp(126): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+         正在生成代码...
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\PolorPie.res" PolorPie.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\PolorPie.dll.embed.manifest.res" Debug\PolorPie_manifest.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\radar_wsp\Debug\PolorPie.dll" /INCREMENTAL /NOLOGO /DEF:".\PolorPie.def" /MANIFEST /ManifestFile:"Debug\PolorPie.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\radar_wsp\Debug\PolorPie.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\radar_wsp\Debug\PolorPie.lib" /MACHINE:X86 /DLL Debug\PolorPie.res
+         Debug\PolorPie.dll.embed.manifest.res
+         Debug\ColorLevel.obj
+         Debug\dllmain.obj
+         Debug\LevelBar.obj
+         Debug\PiePlot.obj
+         Debug\PolorPie.obj
+         Debug\stdafx.obj
+            正在创建库 F:\radar_wsp\Debug\PolorPie.lib 和对象 F:\radar_wsp\Debug\PolorPie.exp
+       Manifest:
+         正在删除文件“Debug\PolorPie.dll.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\PolorPie.dll.embed.manifest" /manifest Debug\PolorPie.dll.intermediate.manifest "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\PolorPie.dll.embed.manifest.res" Debug\PolorPie_manifest.rc 
+       LinkEmbedManifest:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\radar_wsp\Debug\PolorPie.dll" /INCREMENTAL /NOLOGO /DEF:".\PolorPie.def" /MANIFEST /ManifestFile:"Debug\PolorPie.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\radar_wsp\Debug\PolorPie.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\radar_wsp\Debug\PolorPie.lib" /MACHINE:X86 /DLL Debug\PolorPie.res
+         Debug\PolorPie.dll.embed.manifest.res
+         Debug\ColorLevel.obj
+         Debug\dllmain.obj
+         Debug\LevelBar.obj
+         Debug\PiePlot.obj
+         Debug\PolorPie.obj
+         Debug\stdafx.obj
+            正在创建库 F:\radar_wsp\Debug\PolorPie.lib 和对象 F:\radar_wsp\Debug\PolorPie.exp
+         PolorPie.vcxproj -> F:\radar_wsp\Debug\PolorPie.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\PolorPie.unsuccessfulbuild”。
+         正在对“Debug\PolorPie.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\radar_wsp\PolorPie\PolorPie.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.22
